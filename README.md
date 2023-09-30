@@ -6,12 +6,12 @@
 ┇Pets: In real life? No in MInecraft? a panda
 ┇Relationship Status: Single/not intrested
 ┇Sexuality: Straight 
-┇Age: 13
+┇Age: 15
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣ ‧₊˚✧
 ╰─ - ̗̀✎ My Favorite...
 ┇Drink : Coffee 
 ┇Color : Orange 🟠 
-┇Song: Stay 
+┇Song: Shiv Tandav Stotram
 ┇Anime/Show: Pokemon 
 ┇Game: Minecraft , Pokemon , Sonic & Among us!
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣ ‧₊˚✧
