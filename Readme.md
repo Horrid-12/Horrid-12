@@ -93,8 +93,8 @@ A **Minecraft** Datapack.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/stats.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/top-langs.svg" height="170" />
 </p>
 
 
