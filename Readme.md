@@ -28,7 +28,7 @@ I started with frontend development and have since wandered into Python, C#, bac
 
 A **todo tracker and study app** that grew into one of my main projects.
 
-### 🍴 [Spoons & Forks](https://github.com/Horrid-12/Spoons-and-Forks)
+### 🍴 [Spoons &amp; Forks](https://github.com/Horrid-12/Spoons-and-Forks)
 
 A **calorie-tracking application** built as another major project.
 
@@ -97,7 +97,6 @@ A **Minecraft** Datapack.
   <img src="./profile/top-langs.svg" height="170" />
 </p>
 
-
 ## 🌐 Socials
 
 <p>
@@ -113,3 +112,13 @@ A **Minecraft** Datapack.
 </p>
 
 ---
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/github-contribution-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
