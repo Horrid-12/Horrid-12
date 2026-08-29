@@ -1,5 +1,10 @@
 # 🦇 Hi, I'm Swar
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Horrid-12&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile views" />
+</p>
+
+
 ### `Average CS Aspirant`
 
 > Started with an 8th-grade HTML lecture. Somehow, it escalated into programming.
@@ -93,8 +98,8 @@ A **Minecraft** Datapack.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/stats.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/top-langs.svg" height="170" />
 </p>
 
 ## 🌐 Socials
