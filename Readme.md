@@ -1,5 +1,10 @@
 # 🦇 Hi, I'm Swar
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Horrid-12&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile views" />
+</p>
+
+
 ### `Average CS Aspirant`
 
 > Started with an 8th-grade HTML lecture. Somehow, it escalated into programming.
