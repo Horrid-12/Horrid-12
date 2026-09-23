@@ -27,10 +27,10 @@ jobs:
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=350
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+         card: top-langs
+         options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=350&card_height=195
+         path: profile/top-langs.svg
+         token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit Stats
         run: |
