@@ -101,12 +101,12 @@ A **Minecraft** Datapack.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/stats.svg"
+    src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/stats.svg?v=2"
     width="320"
     alt="GitHub Stats"
   />
   <img
-    src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/top-langs.svg"
+    src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/top-langs.svg?v=2"
     width="350"
     alt="Most Used Languages"
   />
@@ -132,7 +132,7 @@ A **Minecraft** Datapack.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/github-contribution-snake.svg"
+    src="https://raw.githubusercontent.com/Horrid-12/Horrid-12/main/profile/github-contribution-snake.svg?v=2"
     alt="GitHub Contribution Snake"
   />
 </p>
