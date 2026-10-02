@@ -16,13 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Generate Dracula Snake
+      - name: Generate Custom Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Horrid-12
           outputs: |
-            outputs: |
-               profile/github-contribution-snake.svg?color_snake=#5DB7DE&color_dots=#171021,#393044,#746E66,#A39B8B,#F1E9DB
+            profile/github-contribution-snake.svg?color_snake=#5DB7DE&color_dots=#171021,#393044,#746E66,#A39B8B,#F1E9DB
+
       - name: Commit Snake
         run: |
           git config user.name "github-actions[bot]"
