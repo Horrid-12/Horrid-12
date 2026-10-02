@@ -111,7 +111,7 @@ A **Minecraft** Datapack.
     alt="Most Used Languages"
   />
 </p>
-
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Horrid-12&background=07020D&border=070214&stroke=5DB7DE&ring=5DB7DE&fire=A39B8B&currStreakNum=F1E9DB&sideNums=F1E9DB&currStreakLabel=5DB7DE&sideLabels=A39B8B&dates=F1E9DB&hide_border=true" alt="GitHub Streak Stats" /> </p>
 ## 🌐 Socials
 
 <p>
