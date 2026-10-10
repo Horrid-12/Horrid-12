@@ -20,7 +20,7 @@ I started with frontend development and have since wandered into Python, C#, bac
 ## 🧛 About Me
 
 * 🌍 Based in **India**
-* 🔭 Currently working on **[Student Analytics](https://github.com/Horrid-12/Student-Analytics)**
+* 🔭 Currently working on **[Student Analytics](https://github.com/Horrid-12/Student-Analytics)** and **[MineSleuth](https://github.com/Horrid-12/MineSleuth)**
 * 🧠 Currently learning **Advanced Python, C#, and Python frameworks**
 * 🤝 Interested in collaborating on **Minecraft projects, Python projects, and interesting ideas**
 * 💻 Started programming through **HTML and frontend development**
