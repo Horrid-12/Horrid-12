@@ -29,25 +29,25 @@ I started with frontend development and have since wandered into Python, C#, bac
 
 ---
 
-## 🚀 Things I've Built
+## Things I've Built
 
-### ❄️ [Snowball](https://github.com/Horrid-12/Snowball)
+[![Snowball](https://img.shields.io/badge/Snowball-C6D8D3?style=for-the-badge&labelColor=480A1E)](https://github.com/Horrid-12/Snowball)
 
 A **todo tracker and study app** that grew into one of my main projects.
 
-### 🍴 [Spoons & Forks](https://github.com/Horrid-12/Spoons-and-Forks)
+[![Spoons & Forks](https://img.shields.io/badge/Spoons%20%26%20Forks-F0544F?style=for-the-badge&labelColor=3A3335)](https://github.com/Horrid-12/Spoons-and-Forks)
 
 A **calorie-tracking application** built as another major project.
 
-### 📊 [Student Analytics](https://github.com/Horrid-12/Student-Analytics)
+[![Student Analytics](https://img.shields.io/badge/Student%20Analytics-9C6A07?style=for-the-badge&labelColor=480A1E)](https://github.com/Horrid-12/Student-Analytics)
 
 A university project focused on **student data and analytics**.
 
-### 🎮 [Playnite Roblox Integration](https://github.com/Horrid-12/Playnite-Roblox-Integration)
+[![Playnite Roblox Integration](https://img.shields.io/badge/Playnite%20Roblox%20Integration-C6D8D3?style=for-the-badge&labelColor=3A3335)](https://github.com/Horrid-12/Playnite-Roblox-Integration)
 
 A project exploring **Playnite and Roblox integration**.
 
-### 🍎 [Rotten Apples](https://github.com/Horrid-12/Rotten-Apples)
+[![Rotten Apples](https://img.shields.io/badge/Rotten%20Apples-F0544F?style=for-the-badge&labelColor=480A1E)](https://github.com/Horrid-12/Rotten-Apples)
 
 A **Minecraft** Datapack.
 
