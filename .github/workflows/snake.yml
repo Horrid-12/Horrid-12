@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: Horrid-12
           outputs: |
-            profile/github-contribution-snake.svg?color_snake=#5DB7DE&color_dots=#171021,#393044,#746E66,#A39B8B,#F1E9DB
+            profile/github-contribution-snake.svg?color_snake=#F0544F&color_dots=#3A3335,#480A1E,#9C6A07,#F0544F,#C6D8D3
 
       - name: Commit Snake
         run: |
