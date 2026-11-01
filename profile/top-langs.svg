@@ -59,7 +59,7 @@
     .lang-progress{
       animation: growWidthAnimation 0.6s ease-in-out forwards;
     }
-    .progress-background { fill: #480A1E; }
+    .progress-background { fill: #ddd; }
     
           
 
@@ -138,103 +138,103 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="127.82"
+          width="126.7"
           height="8"
-          fill="#F0544F"
+          fill="#3572A5"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="127.82"
+          x="126.7"
           y="0"
-          width="73.46"
+          width="75.36"
           height="8"
-          fill="#9C6A07"
+          fill="#f1e05a"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="201.27999999999997"
+          x="202.06"
           y="0"
-          width="32.77"
+          width="32.49"
           height="8"
-          fill="#C6D8D3"
+          fill="#e34c26"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.04999999999998"
+          x="234.55"
           y="0"
-          width="32.58"
+          width="32.29"
           height="8"
-          fill="#F0544F"
+          fill="#3178c6"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="266.63"
+          x="266.84000000000003"
           y="0"
-          width="20.35"
+          width="20.17"
           height="8"
-          fill="#9C6A07"
+          fill="#f34b7d"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="286.98"
+          x="287.01000000000005"
           y="0"
-          width="13.01"
+          width="12.99"
           height="8"
-          fill="#C6D8D3"
+          fill="#663399"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#F0544F" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 42.61%
+        Python 42.23%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#9C6A07" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 24.49%
+        JavaScript 25.12%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#C6D8D3" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 10.92%
+        HTML 10.83%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#F0544F" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 10.86%
+        TypeScript 10.76%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#9C6A07" />
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 6.78%
+        C++ 6.72%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#C6D8D3" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 4.34%
+        CSS 4.33%
       </text>
     </g>
   </g></g>
